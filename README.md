@@ -44,6 +44,6 @@ Other factors decreased the rate. Mainly, every one standard deviation increase 
 
 ## Future Directions
 
-While an R<sup>2</sup> value of 0.39 is actually not bad for a social sciences project due to the difficulty in quantifying human decision making, there is obviously room for improvement. I would like to incorporate more granular data, for example, I suspect that household income would play a role in the rate of uninsured but because our data was limited to the county-level, counties with a mix of urban and rural populations could be influenced by the urban population's increased average income. 
+While an R<sup>2</sup> value of 0.39 is actually not bad for a social sciences project due to the difficulty in quantifying human decision making, there is obviously room for improvement. I would like to incorporate more granular data, for example, while household income played a role in the rate of uninsured, our data was limited to the county-level, counties with a mix of urban and rural populations may be influenced by the urban population's increased average income. 
 
 There are also factors that could be affecting this rate that have been difficult to gather data on. I would propose a system of surveys and aggregating health records that could provide reasons as to why patients did not have insurance. For example, a list of health facilities with charity systems in place (where uninsured patients can access a general "fund" to pay for procedures) to examine how this affects the uninsured rate.
