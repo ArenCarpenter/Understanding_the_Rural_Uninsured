@@ -34,7 +34,7 @@ I used recursive feature elimination to remove insignificant features.
 
 We previously discovered that rural counties have a disproportionately high rate of uninsured (20% vs 9%). 
 
-![](Images/uninsured_rural_urban.png) 
+![](Images/urban_rural_uninsured.png) 
 
 But what factors influence this rate? After running our linear regression, we were able to determine that a mixture of community health indicators and demographic factors had a significant effect on the rate of uninsured. A high percentage of smokers and of elderly citizens on Medicare contributed to increased uninsured rates. I posit that the elderly population on Medicare is acting as a proxy measure of the total elderly population in the county, and because the elderly and children are more likely to be uninsured, this is driving up the rate. 
 
