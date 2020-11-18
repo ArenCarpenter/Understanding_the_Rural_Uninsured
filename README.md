@@ -1,5 +1,10 @@
 # The Rural Uninsured: Driving Factors & Implications
 
+Created by Aren Carpenter
+Summer 2020
+
+**Look for a Tableau dashboard exploring this project further, coming soon!**
+
 ## Introduction
 
 According to recent census data, 8.8 percent of people in the United States do not have health insurance. That's 28 million people who may receive substandard medical care or be turned away due to their lack of status. Because the United States does not have nationalized healthcare, citizens rely on health insurance to cover medical expenses. There are a wide variety of coverage types offered by both private companies and public healthcare systems like Medicare and Medicaid. Rates of uninsured were at 18% before the Affordable Care Act (ACA) mandate in 2013. 
